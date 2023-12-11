@@ -29,7 +29,7 @@ function App() {
         Hello World
       </p>
       <p>
-        Testing the website.
+        Testing.
       </p>
     </>
   )
