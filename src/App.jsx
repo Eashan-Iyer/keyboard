@@ -28,6 +28,9 @@ function App() {
       <p className="read-the-docs">
         Hello World
       </p>
+      <p>
+        Testing the website.
+      </p>
     </>
   )
 }
